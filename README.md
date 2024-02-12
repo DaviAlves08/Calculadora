@@ -21,7 +21,7 @@
 
 ```bash
 # clonar repositório
-git clone [https://github.com/DaviAlves08/App-Bank.git](https://github.com/DaviAlves08/Calculadora.git)
+git clone https://github.com/DaviAlves08/Calculadora.git
 
 # entrar na pasta do projeto calculadora
 cd calculadora
