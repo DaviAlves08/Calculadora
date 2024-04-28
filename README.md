@@ -12,8 +12,8 @@
 
 <h2>Imagens da Aplicação</h2>
 <div>
-    <img src="https://github.com/DaviAlves08/assets/blob/main/Calculadora/Image%20Calculadora%20(2).jpeg" width="300px">
-    <img src="https://github.com/DaviAlves08/assets/blob/main/Calculadora/Image%20Calculadora.jpeg" width="300px">
+    <img src="https://github.com/DaviAlves08/Calculadora/assets/139929297/751e06c3-be78-4764-9c88-db73a0722812" width="300px">
+    <img src="https://github.com/DaviAlves08/Calculadora/assets/139929297/69394809-8d67-4616-b221-a7a86aac4bce" width="300px">
 </div>
 
 
